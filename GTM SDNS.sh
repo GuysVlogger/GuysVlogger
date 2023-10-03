@@ -1,11 +1,11 @@
 NS='sdns.art1.bagito.tech'
 A='art1.bagito.tech'
-NS1='sdns.jkim.bagito.tech'
-A1='jkim.bagito.tech'
-NS2='1.guys-vloggers.tech'
-A2='us.guys-vloggers.tech'
-NS3='jrc.ws.privatessh.tech'
-A3='kjrc.ws.privatessh.tech'
+NS1='sdns.art1.bagito.tech'
+A1='art1.bagito.tech'
+NS2='sdns.art1.bagito.tech'
+A2='art1.bagito.tech'
+NS3='sdns.art1.bagito.tech'
+A3='art1.bagito.tech'
 LOOP_DELAY=5
 
 declare -a HOSTS=('112.198.115.44' '112.198.115.36' '124.6.181.36' '124.6.181.20')
