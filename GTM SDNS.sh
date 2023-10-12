@@ -1,11 +1,15 @@
 NS='sdns.art1.bagito.tech'
 A='art1.bagito.tech'
-NS1='cas-2.optnl.com'
-A1='dns.cas-2.optnl.com'
-NS2='sdns.art1.bagito.tech'
-A2='art1.bagito.tech'
+NS1='dns.cas-2.optnl.com'
+A1='cas-2.optnl.com'
+NS2='dns.uss-4.optnl.com'
+A2='uss-4.optnl.com'
 NS3='sdns.art1.bagito.tech'
 A3='art1.bagito.tech'
+NS4='sdns.art1.bagito.tech'
+A4='art1.bagito.tech'
+NS5='sdns.art1.bagito.tech'
+A5='art1.bagito.tech'
 LOOP_DELAY=5
 
 declare -a HOSTS=('112.198.115.44' '112.198.115.36' '124.6.181.36' '124.6.181.20')
