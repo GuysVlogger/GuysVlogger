@@ -1,5 +1,5 @@
-NS='sdns.art1.bagito.tech'
-A='art1.bagito.tech'
+NS='team.mamawers.elcavlaw.com'
+A='mamawers.elcavlaw.com'
 NS1='dns.cas-2.optnl.com'
 A1='cas-2.optnl.com'
 NS2='dns.uss-4.optnl.com'
