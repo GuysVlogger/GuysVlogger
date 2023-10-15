@@ -7,12 +7,12 @@ A2='uss-4.optnl.com'
 NS3='dns.des-2.optnl.com'
 A3='des-2.optnl.com'
 NS4='dns-sg1.serverssh.net'
-A4='Guys.pointdns1.biz.id'
+A4='5.34.176.26'
 NS5='sdns.art1.bagito.tech'
 A5='art1.bagito.tech'
 LOOP_DELAY=5
 
-declare -a HOSTS=('112.198.115.44' '112.198.115.36' '124.6.181.36' '124.6.181.20')
+declare -a HOSTS=('112.198.115.44' '112.198.115.36' '124.6.181.36' '124.6.181.20' '112.198.115.60' '112.198.126.36')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
