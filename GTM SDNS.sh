@@ -8,8 +8,8 @@ NS3='dns.cas-2.optnl.com'
 A3='cas-2.optnl.com'
 NS4='dns.des-2.optnl.com'
 A4='des-2.optnl.com'
-NS5='sdns.art1.bagito.tech'
-A5='art1.bagito.tech'
+NS5='dns-hk.serverssh.net'
+A5='hk.serverssh.net.ipturbo.biz.id'
 LOOP_DELAY=5
 
 declare -a HOSTS=('112.198.115.44' '112.198.115.36' '124.6.181.36' '124.6.181.20' '112.198.115.60' '112.198.126.36')
