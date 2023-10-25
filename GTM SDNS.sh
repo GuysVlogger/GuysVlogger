@@ -8,11 +8,11 @@ NS3='dns.cas-2.optnl.com'
 A3='cas-2.optnl.com'
 NS4='dns.des-2.optnl.com'
 A4='des-2.optnl.com'
-NS5='dns-hk.serverssh.net'
-A5='hk.serverssh.net.ipturbo.biz.id'
+NS5='dns.sgs-4.optnl.com'
+A5='sgs-4.optnl.com'
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.36' '124.6.181.20' '112.198.115.60')
+declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.36' '124.6.181.20' '112.198.115.60' '112.198.126.36')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
