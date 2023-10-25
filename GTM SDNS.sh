@@ -12,7 +12,7 @@ NS5='dns-hk.serverssh.net'
 A5='hk.serverssh.net.ipturbo.biz.id'
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.4' '112.198.115.36' '124.6.181.36' '124.6.181.20' '112.198.115.60' '112.198.126.36')
+declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.36' '124.6.181.20' '112.198.115.60' '112.198.126.36')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
