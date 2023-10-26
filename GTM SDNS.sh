@@ -6,8 +6,8 @@ NS2='dns.uss-4.optnl.com'
 A2='uss-4.optnl.com'
 NS3='dns.cas-2.optnl.com'
 A3='cas-2.optnl.com'
-NS4='dns.des-2.optnl.com'
-A4='des-2.optnl.com'
+NS4='ns-id3.slowdns.me'
+A4='id3.slowdns.me'
 LOOP_DELAY=5
 
 declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.36' '124.6.181.20' '112.198.115.60' '112.198.126.36' '112.198.126.41')
