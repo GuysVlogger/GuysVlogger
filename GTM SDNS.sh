@@ -2,15 +2,15 @@ NS='team-mamawers.elcavlaw.com'
 A='mamawers.elcavlaw.com'
 NS1='ns.batagka.gq'
 A1='1.guys-vloggers.tech'
-NS2='dns.uss-4.optnl.com'
-A2='uss-4.optnl.com'
-NS3='dns.cas-2.optnl.com'
-A3='cas-2.optnl.com'
+NS2='ns-sg3.slowdns.me'
+A2='sg3.slowdns.me'
+NS3='dns.uss-4.optnl.com'
+A3='uss-4.optnl.com'
 NS4='ns-sg3.slowdns.me'
 A4='sg3.slowdns.me'
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.36' '124.6.181.20')
+declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.20')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
@@ -41,7 +41,7 @@ endscript() {
 trap endscript 2 15
 check(){
  for ((i=0; i<"${#HOSTS[*]}"; i++)); do
-  for R in "${NS}" "${A}" "${NS1}" "${A1}" "${NS2}" "${A2}" "${NS3}" "${A3}"; do
+  for R in "${NS}" "${A}" "${NS1}" "${A1}" "${NS2}" "${A2}" "${NS3}" "${A3}" "${NS4}" "${A4}"; do
    T="${HOSTS[$i]}"
      $(timeout -k .3 .3 ${_DIG} @${T} ${R})  && M=31 || M=32;
    echo -e "\e[1;${M}m\$ R:${R} D:${T}\e[0m"
