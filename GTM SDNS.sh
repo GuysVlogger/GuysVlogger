@@ -1,5 +1,5 @@
-NS='us1-ns.hashi-rama.com'
-A='us1.hashi-rama.com'
+NS='us1-ns.jkimdns.com'
+A='us1.jkimdns.com'
 NS1='ns.batagka.gq'
 A1='1.guys-vloggers.tech'
 NS2='ns-sg3.slowdns.me'
