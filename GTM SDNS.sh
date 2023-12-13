@@ -1,13 +1,13 @@
-NS='us1-ns.jkimdns.com'
-A='us1.jkimdns.com'
-NS1='ns.batagka.gq'
-A1='1.guys-vloggers.tech'
-NS2='team-mamawers.elcavlaw.com'
-A2='mamawers.elcavlaw.com'
-NS3='dns.uss-4.optnl.com'
-A3='uss-4.optnl.com'
-NS4='ns-sg3.slowdns.me'
-A4='sg3.slowdns.me'
+NS='ns.guys-vloggers.tech'
+A='guys-vloggers.tech'
+NS1='
+A1='
+NS2='
+A2='
+NS3='
+A3='
+NS4='
+A4='
 LOOP_DELAY=5
 
 declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.20' '124.6.181.36')
