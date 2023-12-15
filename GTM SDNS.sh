@@ -10,7 +10,7 @@ NS4='
 A4='
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.20' '124.6.181.36')
+declare -a HOSTS=('124.6.181.4' '124.6.181.12' '124.6.181.20' '112.198.115.44')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
