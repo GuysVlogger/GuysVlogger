@@ -1,7 +1,7 @@
 NS='ns.guys-vloggers.tech'
 A='guys-vloggers.tech'
-NS1='
-A1='
+NS1='dns.uss-4.optnl.com
+A1='uss-4.optnl.com
 NS2='
 A2='
 NS3='
