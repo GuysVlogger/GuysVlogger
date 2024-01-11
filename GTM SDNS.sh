@@ -1,7 +1,7 @@
 NS='ns.guys-vloggers.tech'
 A='guys-vloggers.tech'
-NS1='
-A1='
+NS1='ns-id4.slowdns.me
+A1='id4.slowdns.me
 NS2='
 A2='
 NS3='
