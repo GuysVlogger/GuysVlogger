@@ -1,5 +1,5 @@
-NS='ns.guys-vloggers.tech'
-A='guys-vloggers.tech'
+NS='ph1-ns.ssh1.xyz'
+A='ph1-ssh-wstls.ssh1.xyz'
 NS1='mx.guys-vloggers.tech
 A1='1.guys-vloggers.tech
 NS2='
