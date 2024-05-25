@@ -1,7 +1,7 @@
-NS='sg1-ns.ssh1.xyz'
-A='sg1-ssh-wstls.ssh1.xyz'
-NS1='mx.guys-vloggers.tech
-A1='1.guys-vloggers.tech
+NS='sgdo5-ns.ssh1.xyz'
+A='sgdo5-ssh-wstls.ssh1.xyz'
+NS1='sg1-ns.ssh1.xyz
+A1='sg1-ssh-wstls.ssh1.xyz
 NS2='
 A2='
 NS3='
