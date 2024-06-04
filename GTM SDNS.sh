@@ -1,5 +1,5 @@
-NS='sgdo5-ns.ssh1.xyz'
-A='sgdo5-ssh.ssh1.xyz'
+NS='v3.sgtm.palaboy.tech'
+A='sgtm.palaboy.tech'
 NS1='sg1-ns.ssh1.xyz
 A1='sg1-ssh.ssh1.xyz
 NS2='
